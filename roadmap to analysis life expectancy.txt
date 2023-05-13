@@ -1,0 +1,15 @@
+자료 : https://databank.worldbank.org/source/world-development-indicators#
+
+탑텐 기대수명(상위)
+탑텐 기대수명(하위)
+
+counntries with decrase life expectancy
+correlation matrix with Life expectancy(,의료전반5개정도)
+
+key driver analysis
+
+life expectancy에서 주요하게 작용하는 factor들을 발견하고 찾는다.
+
++++
+covid-19하 기대수명 변화가 있는지? (20,21년), covid-19외에도 대대적인 세계급 질병
+지역별(대륙별) 기대수명 차이가있는가?
